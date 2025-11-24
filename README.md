@@ -7,6 +7,6 @@ This repository contains work for all phases of the Data Life Cycle using librar
 - notebooks – Jupyter notebooks containing Python code for data exploration and preprocessing.
 - data – Folder to store datasets used in the project.
 ## Status
-Currently, The repository encompasses the First 2 steps of the Data Life Cycle and will be updated as the project progresses.
+Project Complete!
 ## Author
 Tamira Hamilton
