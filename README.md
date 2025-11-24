@@ -4,8 +4,8 @@ ANA-500: Python for Data Science
 ## Project Overview
 This repository contains work for all phases of the Data Life Cycle using libraries in Python.
 ## Repository Structure
-- notebooks – Jupyter notebooks containing Python code for data exploration and preprocessing.
-- data – Folder to store datasets used in the project.
+- Notebooks – Jupyter notebooks containing Python code for data exploration and preprocessing.
+- Data – Folder to store datasets used in the project.
 ## Status
 Project Complete!
 ## Author
